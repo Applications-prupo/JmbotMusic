@@ -1,4 +1,4 @@
-![banner](https://github.com/WilardzySenpai/WaifuMusic/blob/master/Config/images/banner.png?raw=true)
+![banner]()
 
 <h1 align="center">🎶 WaifuMusic 🎵</h1>
 
