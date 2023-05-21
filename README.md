@@ -1,11 +1,9 @@
 ![banner]()
 
-<h1 align="center">🎶 WaifuMusic 🎵</h1>
+<h1 align="center">🎶 JmbotMusic 🎵</h1>
 
-# WaifuMusic
-- Invite our bot directly [here.](https://discord.com/api/oauth2/authorize?client_id=1013477956905091144&permissions=3524689&scope=bot)
-- Visit our bot website: [waifumusic](https://waifumusic.ml)
-- Vote for WaifuMusic: https://top.gg/bot/1013477956905091144/vote
+# 
+
 
 ## 💨 Update 1.3.0
 
